@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "fdc74cfd0cbdad8a71b87b21fab09f9523207d5f72b2a3b61a94f10ab82d54e1"
+build_start_time: [1690130116, 333928108]
+build_end_time: [1690130117, 648518085]
+inputs:
+  "/Users/asani/Flutter/pizzaFood/pizza_food/macos/Flutter/GeneratedPluginRegistrant.swift": [1690130110, 529690027]
+  "/Users/asani/Flutter/pizzaFood/pizza_food/macos/Runner/AppDelegate.swift": [1678307504, 0]
+  "/Users/asani/Flutter/pizzaFood/pizza_food/macos/Runner/MainFlutterWindow.swift": [1678307504, 0]

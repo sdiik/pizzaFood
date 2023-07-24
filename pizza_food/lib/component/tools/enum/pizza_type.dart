@@ -1,1 +1,0 @@
-enum PizzaType { one, two }
